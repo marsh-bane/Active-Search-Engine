@@ -216,4 +216,4 @@ Active Search Engine is offered as a full free version, providing all features a
 Take control of your website with Active Search Engine! Download now and start enhancing your site's search capabilities today!
 
 ---
-**Last updated:** 2026-11-07 02:37:31 UTC
+**Last updated:** 2026-11-07 09:45:23 UTC
